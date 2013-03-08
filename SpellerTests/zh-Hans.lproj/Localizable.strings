@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Speller
+
+  Created by liulei on 2/10/13.
+  Copyright (c) 2013 cool8jay. All rights reserved.
+*/
+
+// alert
+"alert_mail_account_missing" = "您还没有设置邮件账户！请在设备系统的“设置”中添加。";
+
+// compound
+"compound_mail_subject_feedback" = "Speller iOS %@反馈";
+
+"about" = "关于";
+"alphabet" = "字母";
+"cancel" = "取消";
+"crossword" = "填词";
+"email" = "电子邮件";
+"length" = "长度";
+"rate_me" = "鼓励一下";
+"searching..." = "查找中...";
+"sorry" = "抱歉";
+"spell" = "拼写";

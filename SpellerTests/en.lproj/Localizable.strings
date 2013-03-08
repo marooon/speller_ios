@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Speller
+
+  Created by liulei on 2/10/13.
+  Copyright (c) 2013 cool8jay. All rights reserved.
+*/
+
+// alert
+"alert_mail_account_missing" = "You haven't configured a mail account in the Settings app. You have to set one up before you can contact us via email!";
+
+// compound
+"compound_mail_subject_feedback" = "Feedback for Speller iOS %@";
+
+"about" = "About";
+"alphabet" = "Alphabet";
+"cancel" = "Cancel";
+"crossword" = "Crossword";
+"email" = "Email";
+"length" = "Length";
+"rate_me" = "Rate Me";
+"searching..." = "Searching...";
+"sorry" = "Sorry";
+"spell" = "Spell";

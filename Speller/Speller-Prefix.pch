@@ -1,0 +1,20 @@
+//
+// Prefix header for all source files of the 'Speller' target in the 'Speller' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "UIViewAdditions.h"
+    #import "C8JUIUtils.h"
+#endif
+
+
+#define BackgroundColor     [UIColor colorWithRed:0.95 green:0.93 blue:0.90 alpha:1]
+#define MainFontColor       [UIColor colorWithRed:0.34 green:0.22 blue:0.13 alpha:1]
